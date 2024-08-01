@@ -1,6 +1,6 @@
 # ESP Erase Tool GUI
 
-This Python application provides a graphical user interface (GUI) for executing commands using `esptool`. It uses Tkinter for the GUI and subprocess for executing commands in the command prompt.
+This Python application provides a graphical user interface (GUI) for executing commands with esptool to erase flash memory.
 
 ## Features
 
