@@ -31,4 +31,4 @@ This Python application provides a graphical user interface (GUI) for executing 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details..
