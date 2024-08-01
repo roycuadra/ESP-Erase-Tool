@@ -26,11 +26,9 @@ This Python application provides a graphical user interface (GUI) for executing 
 3. Run the application:
 
     ```bash
-    python <script_name>.py
+    python esp-erase.py
     ```
-
-    Replace `<script_name>.py` with the name of your Python file.
-
+    
 ## Code Explanation
 
 ### Imports
